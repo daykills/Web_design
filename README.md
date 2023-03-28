@@ -1,5 +1,5 @@
 # web_design
-The following 20 projects will take esimated 300hours
+The following 20 projects will take estimated 300hours
 
 - Learn HTML by Building a Cat Photo App
 - Learn Basic CSS by Building a Cafe Menu
